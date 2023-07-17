@@ -17,6 +17,7 @@ public class AbstractionDerivedCLass extends AbstractionImplementation{
         obj.eat(5);
         obj.fly();
         obj.sleep(7);
+        //AbstractionImplementation obj1=AbstractionImplementation();//error cannot create object for a abstract class
 
     }
 }
